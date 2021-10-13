@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mateusznj
+- 👀 I’m interested in .NET/Core, C#, SQL
+- 📫 How to reach me - on LinkedIN https://www.linkedin.com/in/mateusznostitz/ 
